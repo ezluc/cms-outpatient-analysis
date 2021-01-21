@@ -23,7 +23,7 @@ def join_codes(row):
 # In[3]:
 
 
-DATA_DIR = "C:\Users\enjie.zong\Desktop\CMS\SAMPLE1"
+DATA_DIR = "C:\Users\enjie.zong\Desktop\CMS\SAMPLE1" #path to the file
 EPSILON = 0.1
 
 
